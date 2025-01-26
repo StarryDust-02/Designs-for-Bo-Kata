@@ -1,1 +1,8 @@
-Inspired by a famous South Asian kite-flying festival "Basant". Bo Kata, is a high-speed aerial battle royale game between kites where players use power-ups, employ various combat techniques like string cuts and wraps to defeat their opponents. This game includes challenges like tight spaces and strong winds. Players must navigate these constraints while racing to keep their kite intact through various defense and offense techniques to become the ultimate champion.
+Inspired by a famous South Asian kite-flying festival "Basant". 
+Bo Kata, is a high-speed aerial battle royale game between kites 
+where players use power-ups, employ various combat techniques 
+like string cuts and wraps to defeat their opponents. This game 
+includes challenges like tight spaces and strong winds. Players 
+must navigate these constraints while racing to keep their kite 
+intact through various defense and offense techniques to become 
+the ultimate champion.
